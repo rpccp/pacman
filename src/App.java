@@ -4,7 +4,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         int cantFilas = 21;
         int cantColumnas = 19;
-        int tamPared = 32;
+        int tamPared = 35;
         int anchoVentana = cantColumnas * tamPared;
         int largoVentana = cantFilas * tamPared;
 
